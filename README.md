@@ -68,3 +68,9 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Temp-Mail](https://temp-mail.org/pt/)
 - [Tua mãe, aquela ursa](https://tuamaeaquelaursa.com/)
 - [InverTexto](https://www.invertexto.com/gerador-email-temporario)
+
+---
+
+# Outros
+
+- [Emails usados por malware coletados pelo VVestron Phoronix](https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt)
