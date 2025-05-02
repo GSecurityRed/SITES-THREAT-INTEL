@@ -8,6 +8,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [DarkwebInformer](https://darkwebinformer.com/)
 - [SocRadarBlog](https://socradar.io/blog/)
 - [Intel471](https://intel471.com/blog)
+- [https://www.bleepingcomputer.com/](https://www.bleepingcomputer.com/)
 
 ## 🌑 Dark Forums
 
