@@ -23,6 +23,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Focsec](https://focsec.com/)
 - [WhiteIntel](https://whiteintel.io/)
 - [Talos](https://www.talosintelligence.com/)
+- [UrlScan.io](https://urlscan.io/)
 
 ---
 
