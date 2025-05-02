@@ -81,3 +81,6 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 # Outros
 
 - [Emails usados por malware coletados pelo VVestron Phoronix](https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt)
+- [Repositório público de malware gratuito a amostras](https://malshare.com//)
+- [Telegrams](https://github.com/fastfire/deepdarkCTI/blob/main/telegram_threat_actors.md)
+- [PhishingCheck](https://checkphish.bolster.ai/)
