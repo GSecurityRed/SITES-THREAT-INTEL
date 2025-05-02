@@ -23,13 +23,14 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 
 ---
 
-## 🧪 Sandboxs Estáticas
+## 🧪 Sandboxs Estáticas (URL,FILE,IP,ETC)
 
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
 - [Joe Sandbox (Windows)](https://www.joesandbox.com/#windows)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [Maltiverse](https://maltiverse.com/)
 - [ANY.RUN](https://any.run/)
+- https://malwarecheck.org/
 
 ---
 
