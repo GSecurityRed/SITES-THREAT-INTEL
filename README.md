@@ -49,7 +49,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 
 ---
 
-## 🔐 Hashes & Criptografia
+## 🔐 Decode/Encode Criptografias
 
 - [Hashcat](https://hashcat.net/hashcat/)
 - [CyberChef](https://cyberchef.org/)
