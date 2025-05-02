@@ -39,7 +39,6 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [WhiteIntel](https://whiteintel.io/)
 - [LeakCheck](https://leakcheck.io/)
-- `Pwned Search (via API)` – *(suporte via integração)*
 
 ---
 
