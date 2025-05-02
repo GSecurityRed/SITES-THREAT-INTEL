@@ -21,10 +21,12 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [IntelX](https://intelx.io/)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [Focsec](https://focsec.com/)
+- [WhiteIntel](https://whiteintel.io/)
+- [Talos](https://www.talosintelligence.com/)
 
 ---
 
-## 🧪 Sandboxs Estáticas (URL,FILE,IP,ETC)
+## 🧪 Sandboxs Estáticas 
 
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
 - [Joe Sandbox (Windows)](https://www.joesandbox.com/#windows)
