@@ -41,6 +41,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Maltiverse](https://maltiverse.com/)
 - [ANY.RUN](https://any.run/)
 - [MalwareCheck](https://malwarecheck.org/)
+- [Threat.Zone](https://threat.zone/)
 
 ---
 
