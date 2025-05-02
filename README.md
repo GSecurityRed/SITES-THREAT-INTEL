@@ -1,25 +1,59 @@
-# SITES-THREAT-INTEL
+# 🕵️‍♂️ SITES-THREAT-INTEL
 
-## Dark Forums
+Coleção de sites úteis para investigação de ameaças, análise de incidentes e inteligência cibernética.
 
-https://nohide.space
-https://darkforums.st/
-https://nohide.space/
-https://breachforums.st/
-https://leakbase.io/
+---
 
-## IP's
+## 🌑 Dark Forums
 
-https://vpnapi.io/
-https://www.abuseipdb.com/check/77.37.33.190
-https://www.criminalip.io/asset/report/77.37.33.190
-https://intelx.io/
-https://www.virustotal.com/gui/home/upload
+- [nohide.space](https://nohide.space)
+- [darkforums.st](https://darkforums.st/)
+- [breachforums.st](https://breachforums.st/)
+- [leakbase.io](https://leakbase.io/)
 
-## Sandboxs Estáticas
+---
 
-https://www.hybrid-analysis.com/
-https://www.joesandbox.com/#windows
-https://www.virustotal.com/gui/home/upload
-https://maltiverse.com/
-https://any.run/
+## 🌐 Análise de IPs
+
+- [VPNAPI.io](https://vpnapi.io/)
+- [AbuseIPDB - Check IP](https://www.abuseipdb.com/check/77.37.33.190)
+- [CriminalIP - Asset Report](https://www.criminalip.io/asset/report/77.37.33.190)
+- [IntelX](https://intelx.io/)
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+
+---
+
+## 🧪 Sandboxs Estáticas
+
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
+- [Joe Sandbox (Windows)](https://www.joesandbox.com/#windows)
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [Maltiverse](https://maltiverse.com/)
+- [ANY.RUN](https://any.run/)
+
+---
+
+## 📧 Emails Vazados
+
+- [IntelX](https://intelx.io/)
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+- [WhiteIntel](https://whiteintel.io/)
+- [LeakCheck](https://leakcheck.io/)
+- `Pwned Search (via API)` – *(suporte via integração)*
+
+---
+
+## 🖼️ Extração de Metadados
+
+- [Exif.tools](https://exif.tools/)
+- [Metadata2Go](https://www.metadata2go.com/)
+
+---
+
+## 🔐 Hashes & Criptografia
+
+- [Hashcat](https://hashcat.net/hashcat/)
+- [CyberChef](https://cyberchef.org/)
+- [Hashes.com - Hash Identifier](https://hashes.com/en/tools/hash_identifier)
+- [DCode](https://www.dcode.fr/en)
+- [10015.io - MD5 Tool](https://10015.io/tools/md5-encrypt-decrypt)
