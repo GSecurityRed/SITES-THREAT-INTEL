@@ -3,6 +3,11 @@
 Coleção de sites úteis para investigação de ameaças, análise de incidentes e inteligência cibernética.
 
 ---
+## 🌑 Cybercrimes Blogs 
+- [Cybercrime Diaries](https://www.cybercrimediaries.com/)
+- [DarkwebInformer](https://darkwebinformer.com/)
+- [SocRadarBlog](https://socradar.io/blog/)
+- [Intel471](https://intel471.com/blog)
 
 ## 🌑 Dark Forums
 
