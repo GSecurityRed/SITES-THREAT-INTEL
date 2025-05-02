@@ -60,3 +60,11 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Hashes.com - Hash Identifier](https://hashes.com/en/tools/hash_identifier)
 - [DCode](https://www.dcode.fr/en)
 - [10015.io - MD5 Tool](https://10015.io/tools/md5-encrypt-decrypt)
+
+---
+
+## 📧 Temp Emails
+
+- [Temp-Mail](https://temp-mail.org/pt/)
+- [Tua mãe, aquela ursa](https://tuamaeaquelaursa.com/)
+- [InverTexto](https://www.invertexto.com/gerador-email-temporario)
