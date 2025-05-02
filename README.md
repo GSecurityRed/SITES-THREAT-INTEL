@@ -20,7 +20,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [CriminalIP - Asset Report](https://www.criminalip.io/asset/report/77.37.33.190)
 - [IntelX](https://intelx.io/)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
-- https://focsec.com/
+- [Focsec](https://focsec.com/)
 
 ---
 
@@ -31,7 +31,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [Maltiverse](https://maltiverse.com/)
 - [ANY.RUN](https://any.run/)
-- https://malwarecheck.org/
+- [MalwareCheck](https://malwarecheck.org/)
 
 ---
 
