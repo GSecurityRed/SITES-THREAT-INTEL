@@ -22,6 +22,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 ## 🌐 Análise de IPs
 
 - [VPNAPI.io](https://vpnapi.io/)
+- [VPNDATA](https://vpndata.io/)
 - [AbuseIPDB - Check IP](https://www.abuseipdb.com/check/77.37.33.190)
 - [CriminalIP - Asset Report](https://www.criminalip.io/asset/report/77.37.33.190)
 - [IntelX](https://intelx.io/)
