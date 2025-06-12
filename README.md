@@ -15,7 +15,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [nohide.space](https://nohide.space)
 - [darkforums.st](https://darkforums.st/)
 - [breachforums.st](https://breachforums.st/)
-- [leakbase.io](https://leakbase.io/)
+- [leakbase.la](https://leakbase.la/)
 
 ---
 
