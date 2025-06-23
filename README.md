@@ -35,7 +35,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 
 ---
 
-## 🧪 Sandboxs Estáticas 
+## 🧪 Sandboxs Estáticas / Url scan
 
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
 - [Joe Sandbox (Windows)](https://www.joesandbox.com/#windows)
@@ -44,6 +44,8 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [ANY.RUN](https://any.run/)
 - [MalwareCheck](https://malwarecheck.org/)
 - [Threat.Zone](https://threat.zone/)
+- https://sitecheck.sucuri.net/
+- https://www.fortiguard.com/webfilter
 
 ---
 
