@@ -32,6 +32,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Talos](https://www.talosintelligence.com/)
 - [UrlScan.io](https://urlscan.io/)
 - [Whois](https://whois.domaintools.com/)
+- https://app.dehashed.com/search
 
 ---
 
@@ -56,6 +57,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [WhiteIntel](https://whiteintel.io/)
 - [LeakCheck](https://leakcheck.io/)
+- https://app.dehashed.com/search
 
 ---
 
@@ -73,6 +75,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Hashes.com - Hash Identifier](https://hashes.com/en/tools/hash_identifier)
 - [DCode](https://www.dcode.fr/en)
 - [10015.io - MD5 Tool](https://10015.io/tools/md5-encrypt-decrypt)
+- [DecoderURL](https://meyerweb.com/eric/tools/dencoder/)
 
 ---
 
@@ -91,4 +94,4 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Telegrams](https://github.com/fastfire/deepdarkCTI/blob/main/telegram_threat_actors.md)
 - [PhishingCheck](https://checkphish.bolster.ai/)
 - [GitHub- Listas de Domínios de bloqueio de anúncios/malware](https://github.com/KPI0/fuck-Ads/blob/main/Beta.txt)
-- [DecoderURL](https://meyerweb.com/eric/tools/dencoder/)
+  
