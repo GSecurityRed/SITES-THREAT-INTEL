@@ -46,6 +46,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Threat.Zone](https://threat.zone/)
 - https://sitecheck.sucuri.net/
 - https://www.fortiguard.com/webfilter
+- [KasperskySANDBOX](https://opentip.kaspersky.com)
 
 ---
 
