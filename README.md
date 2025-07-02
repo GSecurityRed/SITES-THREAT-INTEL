@@ -90,3 +90,4 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Telegrams](https://github.com/fastfire/deepdarkCTI/blob/main/telegram_threat_actors.md)
 - [PhishingCheck](https://checkphish.bolster.ai/)
 - [GitHub- Listas de Domínios de bloqueio de anúncios/malware](https://github.com/KPI0/fuck-Ads/blob/main/Beta.txt)
+- [DecoderURL](https://meyerweb.com/eric/tools/dencoder/)
