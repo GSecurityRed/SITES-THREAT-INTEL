@@ -95,4 +95,4 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [PhishingCheck](https://checkphish.bolster.ai/)
 - [GitHub- Listas de Domínios de bloqueio de anúncios/malware](https://github.com/KPI0/fuck-Ads/blob/main/Beta.txt)
 - https://grayhatwarfare.com/
-  
+- https://reverse-shell.sh/
