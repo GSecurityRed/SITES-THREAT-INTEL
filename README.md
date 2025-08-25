@@ -19,7 +19,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 
 ---
 
-## 🌐 Análise de IPs
+## 🌐 Análise de IPs / DOMAINS / DNS
 
 - [VPNAPI.io](https://vpnapi.io/)
 - [VPNDATA](https://vpndata.io/)
@@ -32,7 +32,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [Talos](https://www.talosintelligence.com/)
 - [UrlScan.io](https://urlscan.io/)
 - [Whois](https://whois.domaintools.com/)
-- https://app.dehashed.com/search
+- [Domain.Glass](https://domain.glass/)
 
 ---
 
@@ -96,3 +96,4 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [GitHub- Listas de Domínios de bloqueio de anúncios/malware](https://github.com/KPI0/fuck-Ads/blob/main/Beta.txt)
 - https://grayhatwarfare.com/
 - https://reverse-shell.sh/
+- https://app.dehashed.com/search
