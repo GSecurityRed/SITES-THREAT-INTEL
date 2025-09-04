@@ -97,6 +97,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - https://grayhatwarfare.com/
 - https://reverse-shell.sh/
 - https://app.dehashed.com/search
+- https://www.redirect-checker.org/index.php
 ---
 
 © [GSecurity]
