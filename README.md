@@ -99,6 +99,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - https://reverse-shell.sh/
 - https://app.dehashed.com/search
 - https://www.redirect-checker.org/index.php
+- https://t.me/BreachedSearch
 ---
 
 © [GSecurity]
