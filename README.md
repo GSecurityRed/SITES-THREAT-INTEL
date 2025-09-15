@@ -16,6 +16,7 @@ Coleção de sites úteis para investigação de ameaças, análise de incidente
 - [darkforums.st](https://darkforums.st/)
 - [patched.to](https://patched.to/)
 - [leakbase.la](https://leakbase.la/)
+  
 
 ---
 
